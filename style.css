@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+}
+
+body hr{
+    opacity: 10%;
+}
+
+.content p {
+    color: white;
+}
+
+.content span {
+    color: white;
+}
+
+.sidebar {
+    background-color: black;
+    border: 3px solid white;
+    border-radius: 15px;
+    padding: 2em;
+}
+
+.sidebar p {
+    color: white;
+}
+
+.sidebar a{
+    color: white;
+    text-decoration: none;
+}
+
+.sidebar a:hover{
+    color: yellow;
+}
+
+.sidebar-toggle {
+    background-color: transparent;
+    width: 4%;
+}
+
+.sidebar-toggle span {
+
+    background-color: white;
+}
